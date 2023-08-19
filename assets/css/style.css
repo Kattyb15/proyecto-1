@@ -1,0 +1,14 @@
+h1{
+    color: black;
+    background-color: #a18262;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 1px #a18262;
+    font-size: 30pt;
+}
+*{
+    background-color: #a18262;
+}
+h2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
